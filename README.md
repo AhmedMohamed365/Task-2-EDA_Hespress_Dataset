@@ -1,6 +1,6 @@
 # Task-2-EDA_Hespress_Dataset
  Exploratory data analysis of the Hespress journal dataset 
-The data consists of thousands of 11 thousands of articles across 11 different topics 
+The data consists  of 11 thousands of articles across 11 different topics 
 
 A word cloud demonstrates the  most frequent words from 2013 to 2020 
 ![image](https://github.com/AhmedMohamed365/Task-2-EDA_Hespress_Dataset/assets/56398966/41a5bc82-21c1-4b2e-8970-cd5fb9095b6c)
